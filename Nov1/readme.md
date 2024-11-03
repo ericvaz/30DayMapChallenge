@@ -4,7 +4,7 @@ This project provides a point map looking at choropleth density per strength of 
 
 ## Output
 
-![Earthquake Analysis Results](images/result.png)
+![Earthquakes in the Iberian Peninsula](earthquakes.png)
 
 ## Usage
 To use this script, update the `file_path` variable with the location of your CSV file containing earthquake data. Run the script to generate insights and visualizations based on the dataset.
