@@ -5,7 +5,7 @@ import geopandas as gpd
 from pyproj import Transformer
 
 # Load the CSV file
-earthquakes = pd.read_csv('Eartquakes-1990-2023.csv')
+earthquakes = pd.read_csv('iberianearthquakes.csv')
 
 # Filter data for earthquakes within the Iberian Peninsula
 iberian_earthquakes = earthquakes[
